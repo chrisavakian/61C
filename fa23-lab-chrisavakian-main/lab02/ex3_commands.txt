@@ -1,0 +1,11 @@
+b check_number
+r
+next
+step
+b 31 if letter == '0'
+c
+print letter
+print is_in_range
+print lower
+print upper
+quit
